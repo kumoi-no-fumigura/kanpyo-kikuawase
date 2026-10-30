@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kanpyo-kikuawase",
  "yomi": "かんぴょうきくあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（菊合）",
+  "era": "仁和4〜寛平3年（888〜892）頃",
+  "author": "宇多天皇の御時",
+  "desc": "宇多天皇の御時の菊合。山城の皆瀬・嵯峨の大沢の池・紫野など名所の名を付けた菊を州浜に植え、歌を結び付けて出した。紀友則・菅原道真の歌も見える。"
+ },
  "editions": [
   {
    "pid": "1879502",
